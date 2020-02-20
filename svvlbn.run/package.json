@@ -1,0 +1,35 @@
+{
+  "name": "svvlbn.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@antv/l7": "2.0.10",
+    "@antv/l7-maps": "2.0.10",
+    "core-js": "^3.6.4",
+    "d3-color": "1.4.0",
+    "mapbox-gl": "1.7.0",
+    "react": "16.9.0",
+    "react-dom": "16.9.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
